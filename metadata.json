@@ -1,0 +1,32 @@
+{
+  "name": "bower",
+  "description": "Installs/Configures bower",
+  "long_description": "This cookbook installs bower",
+  "maintainer": "tdtadeu",
+  "maintainer_email": "tdtadeu@gmail.com",
+  "license": "MIT",
+  "platforms": {
+  },
+  "dependencies": {
+    "npm": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.0.1",
+  "source_url": "",
+  "issues_url": ""
+}
